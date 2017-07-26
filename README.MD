@@ -1,3 +1,5 @@
+Left off at https://learnnextjs.com/basics/styling-components
+
 To create a Next.js project create the directory of the project.
 
 yarn add react react-dom next express
