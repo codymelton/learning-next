@@ -1,4 +1,4 @@
-Left off at https://learnnextjs.com/basics/styling-components
+Left off at https://learnnextjs.com/excel/static-html-export
 
 To create a Next.js project create the directory of the project.
 
